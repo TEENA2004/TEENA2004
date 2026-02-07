@@ -1,81 +1,112 @@
-👋 Hi, I'm Teena Sharma
+<h1 align="center">
+  👋 Hi, I'm Teena Sharma 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+</h1>
 
-🎓 Data Analytics Student
-📊 Excel Reporting | 📈 Dashboards | 🗄 MySQL
-🤖 Basic AI & Python
-🌱 Project-Based Learner | Tech + Business Enthusiast
+<h3 align="center">🎓 Data Analytics Student | 🌱 Tech + Business Enthusiast</h3>
 
-✨ About Me
+<p align="center">
+📊 Excel Reporting & Analysis &nbsp; | &nbsp; 📈 Dashboards & Visualization &nbsp; | &nbsp; 🗄 MySQL  
+<br>
+🤖 Basic AI & Python &nbsp; | &nbsp; 🌱 Project-Based Learner
+</p>
 
-I am a Data Analytics student who believes in learning through real-world projects and practical exposure.
+---
+
+## ✨ About Me
+
+I am a Data Analytics student who believes in learning through real-world projects and practical exposure.  
 My foundation lies in data, technology, and analytics, and I am gradually building skills that connect technology with business thinking.
 
 I am not focused only on coding — I am focused on understanding systems, industries, decision-making, and real-world problem solving using data and technology.
 
-My long-term vision is to grow in the space of tech + business + analytics, gain industry exposure, and build a strong foundation for future entrepreneurship and investment.
+My long-term vision is to grow in the space of **tech + business + analytics**, gain industry exposure, and build a strong foundation for future entrepreneurship and investment.
 
-🧠 Core Skills
+---
 
-Excel Reporting & Analysis
+## 🧠 Core Skills
 
-Dashboard Creation
+<p align="center">
 
-MySQL
+🟢 <b>Excel Reporting & Analysis</b> &nbsp;&nbsp; 
+📊 <b>Dashboard Creation</b> &nbsp;&nbsp; 
+🗄 <b>MySQL</b> &nbsp;&nbsp; 
+📈 <b>Data Understanding & Visualization</b>  
 
-Data Understanding & Visualization
+<br><br>
 
-Basic Python
+🐍 <b>Python (Basic)</b> &nbsp;&nbsp; 
+🤖 <b>AI Concepts (Basic)</b> &nbsp;&nbsp; 
+🧠 <b>Problem Solving</b> &nbsp;&nbsp; 
+📝 <b>Project Documentation</b>  
 
-Basic AI Concepts
+<br><br>
 
-Problem Solving
+🧩 <b>System Thinking</b>
 
-Project Documentation
+</p>
 
-System Thinking
+---
 
-📂 Selected Projects
-🔹 Marwari Text-to-Speech System (NLP Project)
+## 📂 Selected Projects
 
-A language-focused project that translates Hindi to Marwari and provides audio output for better accessibility.
-Focus: Technology for impact, NLP learning, real-world usability
-Tech: Python, NLP, TTS, Machine Learning
+### 🔹 **Marwari Text-to-Speech System (NLP Project)**
 
-🔹 Early Detection of Lung Cancer (ML Project – Group Project)
+A language-focused project that translates Hindi to Marwari and provides audio output for better accessibility.  
+**Focus:** Technology for impact, NLP learning, real-world usability  
+**Tech:** Python, NLP, TTS, Machine Learning
 
-A machine learning project focused on binary classification for early risk detection using medical data.
-Includes model evaluation using precision, recall, accuracy, and performance metrics, and a Streamlit-based web interface.
-Focus: Data science learning, ML fundamentals, real-world application
-Tech: Python, Machine Learning, Streamlit, Data Processing
+---
 
-🔹 Internship / Training Projects
+### 🔹 **Early Detection of Lung Cancer (ML Project – Group Project)**
 
-Projects developed during learning programs and training internships focusing on programming logic, real-world problem solving, and system understanding.
+A machine learning project focused on binary classification for early risk detection using medical data.  
+Includes model evaluation using **precision, recall, accuracy, and performance metrics**, and a **Streamlit-based web interface**.  
+**Focus:** Data science learning, ML fundamentals, real-world application  
+**Tech:** Python, Machine Learning, Streamlit, Data Processing
 
-🌱 Learning Direction
+---
 
-Advanced Excel & Business Reporting
+### 🔹 **Internship / Training Projects (Cipher Byte Technologies)**
 
-Dashboard Design for Decision Making
+Worked on a **Data Science Internship Project** using the **Iris Flower Dataset**, focusing on:
+- Data understanding  
+- Model building basics  
+- Feature analysis  
+- Practical machine learning workflow  
+- Systematic learning approach  
 
-SQL for Analytics
+---
 
-Python for Data Analysis
+## 🌱 Learning Direction
 
-Applied AI Fundamentals
+<p align="center">
 
-Business Intelligence Concepts
+🔹 Advanced Excel & Business Reporting  
+🔹 Dashboard Design for Decision Making  
+🔹 SQL for Analytics  
+🔹 Python for Data Analysis  
+🔹 Applied AI Fundamentals  
+🔹 Business Intelligence Concepts  
+🔹 Industry Understanding  
 
-Industry Understanding
+</p>
 
-🎯 Career Vision
+---
 
-To build a strong foundation in data, technology, and business systems, gain real industry exposure, and grow into a professional who understands both technology and business decision-making.
+## 🎯 Career Vision
 
-Long-term focus:
-Tech + Business + Analytics → Industry Exposure → Entrepreneurship → Investment → Sustainable Growth
+To build a strong foundation in **data, technology, and business systems**, gain real industry exposure, and grow into a professional who understands both **technology and business decision-making**.
 
-🤝 Connect With Me
+My long-term goal is to combine **tech + business + analytics** to create real-world impact, build sustainable systems, and grow toward **entrepreneurship and long-term investment vision**.
 
-🔗 LinkedIn: 
-📧 Email: (Your col)
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+🔗 <b>LinkedIn:</b>  
+📧 <b>Email:</b>  
+
+</p>
