@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hi, I'm Teena Sharma 
+  Hi, I'm Teena Sharma 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </h1>
 
@@ -106,7 +106,7 @@ My long-term goal is to combine **tech + business + analytics** to create real-w
 
 <p align="center">
 
-🔗 <b>LinkedIn:</b>  
-📧 <b>Email:</b>  
+🔗 <b>LinkedIn:https://www.linkedin.com/in/teena-sharma-professional</b>  
+📧 <b>Email:teenasharma35803@iisuniv.ac.in</b>  
 
 </p>
