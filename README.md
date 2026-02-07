@@ -48,7 +48,7 @@ My long-term vision is to grow in the space of **Tech , Business and  Analytics*
 
 ## 📂 Selected Projects
 
-### 🔹 **Marwari Text-to-Speech System (NLP Project)**
+### 🔹 Marwari Text-to-Speech System (NLP Project)
 
 A language-focused project that translates Hindi to Marwari and provides audio output for better accessibility.  
 **Focus:** Technology for impact, NLP learning, real-world usability  
@@ -56,7 +56,7 @@ A language-focused project that translates Hindi to Marwari and provides audio o
 
 ---
 
-### 🔹 **Machine Learning Early Detection of Lung Cancer **
+### 🔹 Machine Learning Early Detection of Lung Cancer 
 
 A machine learning project focused on binary classification for early risk detection using medical data.  
 Includes model evaluation using **precision, recall, accuracy, and performance metrics**, and a **Streamlit-based web interface**.  
