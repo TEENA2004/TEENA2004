@@ -77,5 +77,5 @@ Tech + Business + Analytics → Industry Exposure → Entrepreneurship → Inves
 
 🤝 Connect With Me
 
-🔗 LinkedIn: (Add your LinkedIn link)
-📧 Email: (Your college email ID)
+🔗 LinkedIn: 
+📧 Email: (Your col)
