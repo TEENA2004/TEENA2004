@@ -63,6 +63,13 @@ Includes model evaluation using **precision, recall, accuracy, and performance m
 **Focus:** Data science learning, ML fundamentals, real-world application  
 **Tech:** Python, Machine Learning, Streamlit, Data Processing
 
+### 🔹 Smart Automation System using Arduino (IoT Project)
+
+A hardware-based automation project that controls lighting and environmental conditions using LDR, DHT11, and Ultrasonic sensors. The system automatically manages **LED and fan operations based on light intensity, temperature thresholds, and object detection**.
+
+**Focus:** Embedded systems, sensor interfacing, real-world automation
+**Tech:** Arduino, Embedded C/C++, LDR, DHT11, HC-SR04, Circuit Design
+
 ---
 
 ### 🔹 **Internship / Training Projects (Cipher Byte Technologies)**
