@@ -54,7 +54,6 @@ A language-focused project that translates Hindi to Marwari and provides audio o
 **Focus:** Technology for impact, NLP learning, real-world usability  
 **Tech:** Python, NLP, TTS, Machine Learning
 
----
 
 ### 🔹 Machine Learning Early Detection of Lung Cancer 
 
