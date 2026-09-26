@@ -3,16 +3,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
   Hi, I'm Teena Sharma 
 </h1>
-<centre>
-### **BSc (Hons.) Data Analytics & AI Graduate**</centre>
-### *Turning raw data into clear business decisions — through Excel, SQL, Power BI, and structured analysis.*
+<div align="center">
+### **Business Analyst | AI-Powered Solutions | Data-Driven Decision Making**
+### **Excel • SQL • Power BI • AI Automation**
  
+</div>
 ---
  
 ## ✨ About Me
  
-### 💡 *I am a Business Analytics graduate focused on transforming data into decisions that matter.*
+<div align="center">
+## 💡 I am a Business Analytics graduate focused on transforming data into decisions that matter.
  
+</div>
 I work at the intersection of data and business — understanding what a problem actually is before opening any tool, then using Excel, SQL, and Power BI to analyse, structure, and present findings in a way that decision-makers can act on.
  
 My approach is not just technical. I focus on:
