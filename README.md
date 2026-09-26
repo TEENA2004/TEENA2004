@@ -5,15 +5,15 @@
 </h1>
 <div align="center">
 
-<h3><strong>Business Analyst | AI-Powered Solutions | Data-Driven Decision Making</strong></h3>
+<h2><strong>Business Analyst | AI-Powered Solutions | Data-Driven Decision Making</strong></h2>
 
-<h2><strong>Excel • SQL • Power BI • AI Automation</strong></h2>
+<h3><strong>Excel • SQL • Power BI • AI Automation</strong></h3>
 
 </div>
  
 ## ✨ About Me
 
-<h4><strong>I am a Business Analytics graduate focused on transforming data into decisions Making for Business.</strong></h4>
+<h3><strong>I am a Business Analytics graduate focused on transforming data into decisions Making for Business.</strong></h3>
 
 I work at the intersection of data and business — understanding what a problem actually is before opening any tool, then using Excel, SQL, and Power BI to analyse, structure, and present findings in a way that decision-makers can act on.
  
