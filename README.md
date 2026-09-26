@@ -49,7 +49,20 @@ I am building hands-on experience through real projects — data cleaning, dashb
 | 🗄️ SQL for Insights | Querying and slicing data to surface what actually matters |
  
 ---
+
+## 💼 Internship Experience
  
+**CipherByte Technologies** — Data Science Intern (Remote)
+📅 July 2025 – August 2025 · `Python` · `Pandas` · `Matplotlib` · `Machine Learning` · `NumPy `
+🔗 [View Repository](https://github.com/TEENA2004/CBTCIP)
+ 
+- Performed data cleaning and exploratory data analysis (EDA) on structured datasets using Python and Pandas
+- Analysed the Iris dataset containing 150 records across 3 species and 4 features to identify class patterns; evaluated classification model performance using accuracy metrics
+- Documented findings and analysis workflow into structured reports for team review
+- Developed end-to-end understanding of the ML workflow: data preparation → model building → evaluation
+---
+
+
 ## 🚀 Featured Project
  
 ### 🎓 IIS EduGrade AI — Multi-Agent Assessment System
@@ -110,7 +123,7 @@ I am building hands-on experience through real projects — data cleaning, dashb
 | [Marwari TTS System](https://github.com/TEENA2004/Marwari-text-to-speech-TTS-System-using-NLP-) | NLP system for language accessibility in rural Rajasthan | Python · NLP · TTS |
 | [Arduino Smart Automation](https://github.com/TEENA2004/Arduino-smart-automation-system) | IoT sensor-based environmental automation | C++ · Arduino |
 | [Priority Task Agent](https://github.com/TEENA2004/Priority-task-agent) | RL-based daily task prioritisation | Python |
-| [CBTCIP](https://github.com/TEENA2004/CBTCIP) | Internship training project — Iris dataset | Python |
+
  
 ---
  
