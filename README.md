@@ -11,7 +11,7 @@
  
 ## ✨ About Me
  
-> **I am a Business Analytics graduate focused on transforming data into decisions that matter.**
+> **<b>I am a Business Analytics graduate focused on transforming data into decisions that matter.<b>**
  
 I work at the intersection of data and business — understanding what a problem actually is before opening any tool, then using Excel, SQL, and Power BI to analyse, structure, and present findings in a way that decision-makers can act on.
  
@@ -29,7 +29,7 @@ I am building hands-on experience through real projects — data cleaning, dashb
  
 | | | | | | | | |
 |---|---|---|---|---|---|---|---|
-| 📊 Microsoft Excel | ⚡ Power Query | 📈 Power BI | 🗄️ SQL / MySQL | 📉 Data Visualization | 📋 Dashboard Development | 📝 Data Reporting | 🐍 Python (Basic) |
+| 📊 Microsoft Excel |⚡ Power Query | 📈 Power BI | 🗄️ MySQL | 📉 Data Visualization | 📋 Dashboard Development | 📝 Data Reporting | 🐍 Python (Basic) |
  
 **🧠 Core Strengths:**
  
