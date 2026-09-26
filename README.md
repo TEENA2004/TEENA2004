@@ -1,9 +1,24 @@
-# 👋 Hi, I'm Teena Sharma
+<h1 align="center">
+  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  Hi, I'm Teena Sharma 
+</h1>
 
-**BSc (Hons.) Data Analytics & AI Graduate**
-Turning raw data into clear business decisions — through Excel, SQL, Power BI, and structured analysis.
+BSc (Hons.) Data Analytics & AI Graduate Turning raw data into clear business decisions — through Excel, SQL, Power BI, and structured analysis.
 
----
+✨ About Me
+
+I am a Data Analytics & AI graduate who believes in learning through real-world projects and practical exposure. My foundation lies in data, analytics, and business thinking — and I am building skills that connect structured data work with real decision-making.
+
+I am not focused only on coding — I am focused on understanding business problems, analysing data meaningfully, and presenting insights that actually drive decisions.
+
+My goal is to grow in the space of Business Analytics and Data Reporting, gain industry exposure, and become someone who bridges data and business.
+
+🧩 Skills
+
+💻 Technical: Python SQL Microsoft Excel Power BI Power Query Data Visualization Dashboard Development Data Reporting
+
+🧠 Core Strengths: Analytical Thinking Communication Business Problem Framing Team Collaboration Quick Learner
 
 ## 🎯 What I Focus On
 
@@ -88,7 +103,7 @@ These are academic-phase projects from my degree. They show breadth of exposure 
 |---|---|---|
 | [Marwari TTS System](https://github.com/TEENA2004/Marwari-text-to-speech-TTS-System-using-NLP-) | NLP, language accessibility for rural users | Python, NLP, TTS |
 | [Arduino Smart Automation](https://github.com/TEENA2004/Arduino-smart-automation-system) | IoT, sensor-based automation | C++, Arduino |
-| [Priority Task Agent](https://github.com/TEENA2004/Priority-task-agent) | RL-based task prioritization | Python, OpenAI Gym |
+| [Priority Task Agent](https://github.com/TEENA2004/Priority-task-agent) | RL-based task prioritization | Python, OpenAI API's|
 | [CBTCIP](https://github.com/TEENA2004/CBTCIP) | Internship training project (Iris dataset) | Python |
 
 ---
@@ -107,6 +122,6 @@ These are academic-phase projects from my degree. They show breadth of exposure 
 <p align="center">
 
 🔗 <b>LinkedIn:https://www.linkedin.com/in/teena-sharma-professional</b>  
-📧 <b>Email:teenasharma35803@iisuniv.ac.in</b>  
+📧 <b>Email:teenasharmajph@gmail.com </b>  
 
 </p>
