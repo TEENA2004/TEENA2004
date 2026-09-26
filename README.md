@@ -7,13 +7,13 @@
 
 <h3><strong>Business Analyst | AI-Powered Solutions | Data-Driven Decision Making</strong></h3>
 
-<strong>Excel • SQL • Power BI • AI Automation</strong>
+<h2><strong>Excel • SQL • Power BI • AI Automation</strong></h2>
 
 </div>
  
 ## ✨ About Me
 
-<h3><strong>## 💡 I am a Business Analytics graduate focused on transforming data into decisions Making for Business.</strong></h3>
+<h1><strong>I am a Business Analytics graduate focused on transforming data into decisions Making for Business.</strong></h1>
 
 I work at the intersection of data and business — understanding what a problem actually is before opening any tool, then using Excel, SQL, and Power BI to analyse, structure, and present findings in a way that decision-makers can act on.
  
@@ -45,7 +45,7 @@ I am building hands-on experience through real projects — data cleaning, dashb
  
 | Area | What it means in practice |
 |---|---|
-| 📌 Business Analytics | Understanding the business problem before touching the data |
+| 📌 Business Analytics | Understanding the business problem |
 | 📊 Data Reporting | Building structured, decision-ready reports in Excel |
 | 📈 Dashboard Design | Power BI dashboards that answer real questions visually |
 | 🗄️ SQL for Insights | Querying and slicing data to surface what actually matters |
