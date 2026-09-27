@@ -67,7 +67,7 @@ I am building hands-on experience through real projects — data cleaning, dashb
 
 ## 🚀 Featured Project
  
-### 🎓 IIS EduGrade AI — Multi-Agent Assessment System
+### 🎓EvLax AI — Multi-Agent Assessment System | Major Project 2026
 > **Major Project · BSc (Hons.) Data Analytics & AI · IIS University, Jaipur · 2025–26**
  
 **📌 Problem:** Teachers at IIS University manually evaluated student answer sheets — slow, inconsistent, and difficult to scale for NBA accreditation tracking.
